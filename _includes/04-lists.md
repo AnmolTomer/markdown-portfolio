@@ -1,3 +1,5 @@
-* List Item 1
-* List Item 2
-* List Item 3
+**These are the technologies that I am excited about:**
+* Python
+* C++
+* Cloud
+
