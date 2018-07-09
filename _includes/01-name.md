@@ -1,9 +1,9 @@
 # Anmol Tomer
-## I am dedicated to learn more and more about following 6 fields:
+## I am dedicated to learn more and more about following fields:
 #### Computer Science Engineering
 #### IT
 #### Cyber Security
-#### WebDev + FCC
+#### Full Stack Web Development
 #### Machine Learning, Artificial Intelligence, Data Science
-#### Developer (C++, Python, Java)
-*These things are a few from a long list of things I am passionate about and want to learn as I grow in the field of technology. So don't be surprised if you see some more things added to the list in the future.*
+#### Softwre Development
+*I love solving problems and the whole idea of making something meaningful and useful from scratch.  I like learning. Like sharks, programmers die if they stop moving. Because technology changes so fast, being a programmer means that "school" never stops. *
