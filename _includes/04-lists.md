@@ -1,5 +1,8 @@
-**These are the technologies that I am excited about:**
+**Following are the languages, tools, libraries, frameworks and technlogoies that I am most excited and passionate about:**
 * Python
 * C++
-* Cloud
-
+* JavaScript
+* Fullstack Web Development
+* Cloud Computing
+* Machine Learning and AI
+* Competitive Programming
